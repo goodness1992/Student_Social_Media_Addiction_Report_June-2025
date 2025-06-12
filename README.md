@@ -10,9 +10,14 @@
  - [Recommendations](#recommendations)
 
  ### Project Overview
+ --------
 
 This project analyzes how social media usage affects students' academic performance, sleep patterns, mental health, and daily habits across different countries, age groups, and academic levels.
 I used Microsoft Excel 365 to build a dynamic and interactive dashboard that visualizes insights using Pivot Tables, slicers, charts, and conditional formatting.
+
+
+<img width="1034" alt="EXCEL_jiGMphKgXC" src="https://github.com/user-attachments/assets/c997272c-eb5d-44c5-89a2-a1d6071bb49b" />
+
 
 
 ### Tools Used
@@ -75,5 +80,8 @@ Schools can include social media literacy in the curriculum to help students bal
 
 Encourage break periods or “social detox” weeks for healthier habits
 
-### 
+### Author
+**Taiwo Sanusi**
+
+Aspiring Data Analyst | Excel & Data Visualization Enthusiast
 
